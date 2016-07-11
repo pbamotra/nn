@@ -3,7 +3,6 @@
 Source: http://karpathy.github.io/neuralnets/#example-single-neuron
 '''
 import math
-from collections import namedtuple
 
 
 class Unit:
